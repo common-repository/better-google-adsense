@@ -1,0 +1,78 @@
+.better-goolge-adsense-main-section h2,.better-goolge-adsense-main-section h3 {
+    font-size: 1.3em;
+    margin: 1em 0 -1em 0;
+    background: white;
+    padding-bottom: 20px;
+    padding-top: 15px;
+}
+.better-goolge-adsense-main-section {
+        width: 80%;
+        float:left;
+        margin-right: 15px;
+}
+#multiple option{
+   padding: 40px;
+}
+.better-goolge-adsense-main-section select#better_google_adsense_categories {
+    max-width: 380px;
+    width: -webkit-fill-available;
+    display: block;
+    height: fit-content;
+    min-height: 120px;
+
+}
+.better-goolge-adsense-main-section table.form-table {
+    background: #ffffff;
+    border-top: 1px solid gainsboro;
+}
+
+.better-goolge-adsense-main-section th,.better-goolge-adsense-main-section td, .better-goolge-adsense-main-section h2, .better-goolge-adsense-main-section h3 {
+    padding-left: 20px;
+}
+.better-goolge-adsense-main-section .form-table td {
+line-height: 3;
+}
+.better-goolge-adsense-upgrade-pro h2 {
+text-align: center;
+}
+.better-goolge-adsense-upgrade-pro {
+    width: 15%;
+    float: left;
+    margin-top: 16px;
+    padding: 0 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background: #ffffff;
+}
+.better-goolge-adsense-upgrade-pro h2 {
+    text-align: center;
+}
+.better-goolge-adsense-main-section input[type=radio], .better-goolge-adsense-main-section input[type=checkbox] {
+    border: 1px solid #b4b9be;
+    background: #fff;
+    color: #555;
+    clear: none;
+    cursor: pointer;
+    display: inline-block;
+    line-height: 0;
+    height: 25px;
+    margin: -4px 4px 0 0;
+    outline: 0;
+      padding: 4.5px!important;
+    text-align: center;
+    vertical-align: middle;
+    width: 25px;
+    min-width: 25px;
+    -webkit-appearance: none;
+    box-shadow: inset 0 1px 2px rgba(0,0,0,.1);
+    transition: .05s border-color ease-in-out;
+}
+textarea#better_google_adsense_code {
+  min-height: 300px;
+  min-width: 600px;
+  resize: both;
+  overflow: auto;
+}
+select#better_google_adsense_post_categories, select#better_google_adsense_pages {
+    min-width: 400px;
+}
